@@ -1,0 +1,33 @@
+html {
+  background-color: #79CDDF;
+  font-family: Avenir Next;
+  line-height: 1.5;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  color: #552984;
+}
+
+.btn {
+  list-style-type: none;
+  color: #552984;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+  padding-top: 2em;
+}
+
+@media only screen and (min-width: 90em){
+
+  .max-length {
+    max-width: 60em;
+  }
+
+}
